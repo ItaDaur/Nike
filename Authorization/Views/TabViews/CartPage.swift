@@ -121,7 +121,7 @@ struct CartPage: View {
                             //                            Text("Checkout")
                             //                                .font(.custom("", size: 18).bold())
                             //                                .foregroundColor(.white)
-                            //                                .padding(.vertical, 18)
+                            //                               s .padding(.vertical, 18)
                             //                                .frame(maxWidth: .infinity)
                             //                                .background(Color.orange)
                             //                                .cornerRadius(15)
